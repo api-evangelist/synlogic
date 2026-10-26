@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Synlogic is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://www.synlogictx.com
+Synlogic is the leading company advancing therapeutics based on synthetic biology, working at the intersection of biology and engineering to treat disease. It designs engineered microbes that act as living medicines, developing oral biologic therapies for metabolic, inflammatory, and rare diseases, leveraging a robust platform of synthetic gene circuits and clinical development expertise.
+
+**Areas:** Company · Synthetic Biology · Therapeutics · Biotechnology · Health
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.synlogictx.com)
+- [Privacy policy](https://www.synlogictx.com/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/synlogic/](https://apis.io/providers/synlogic/).
